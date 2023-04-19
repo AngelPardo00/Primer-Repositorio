@@ -11,9 +11,9 @@ public class Buscaminas {
         int[][] tablero = new int[8][8];
         int casos = sc.nextInt();
 
-        System.out.println("----------------");
-        System.out.println("MODIFICACION GIT");
-        System.out.println("----------------");
+        System.out.println("------------------");
+        System.out.println("MODIFICACION GIT 2");
+        System.out.println("------------------");
         
         for (int caso = 0; caso < casos; caso++) {
 
