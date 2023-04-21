@@ -12,7 +12,7 @@ public class Buscaminas {
         int casos = sc.nextInt();
 
         System.out.println("------------------");
-        System.out.println("MODIFICACION GIT 2");
+        System.out.println("MODIFICACION GIT V2");
         System.out.println("------------------");
         
         for (int caso = 0; caso < casos; caso++) {
